@@ -40,8 +40,6 @@ a {
 }
 
 
-
-
 .active, .panel:hover {
     border-color:teal;
     border-style: solid;
@@ -57,6 +55,9 @@ a {
     font-family: cochin;
     font-weight: bolder;
     padding-top: 10px;
+}
+th{
+    font-weight: bolder;
 }
 
 p {
